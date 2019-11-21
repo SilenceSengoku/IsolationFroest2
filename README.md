@@ -23,7 +23,12 @@ Anomaly detection.As a "simple ml" for "beginner"
 
 虽然这可能会感觉和网络上的其他资料一样晕乎，但是对特征的概念你可以先暂缓了解。
 
-你现在要做的是先尝试跑通示例代码，然后再去思考提取特征等问题。
+初学者最需要做的：
+是先尝试跑通示例代码，
+理解代码各个部分分工，
+最后再去思考提取特征等问题，
+并尝试彻底解决某种实际问题。
+
 
 参数-paramete
 =====
@@ -45,7 +50,7 @@ Anomaly detection.As a "simple ml" for "beginner"
 
 安装-Install
 =====
-python version 3.6.5
+my python version is 3.6.5
 你需要/You need:
 
 pandas，numpy，sklearn，matplotlib，scipy
@@ -67,6 +72,13 @@ pandas，numpy，sklearn，matplotlib，scipy
 <a href="https://github.com/SilenceSengoku">@Sengoku·Crow·Lu</a>
 
 <a href="https://www.zhihu.com/people/firesnake-67/activities">Sengoku·Crow·Lu's zhihu</a>
+
+Public statement:
+
+this is Author statement.
+
+No reprint without authorization.Thank you for your cooperation.
+
 
 参考-Reference
 =====
