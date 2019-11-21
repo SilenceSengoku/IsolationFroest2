@@ -11,13 +11,20 @@ Anomaly detection.As a simple ‘ml’
 
 安装 install
 =====
-> install
-
-
-库准备
-=====
+你需要/You need:
 
 pandas，numpy，sklearn，matplotlib，scipy
+
+> pip install pandas
+
+> pip install numpy
+
+> pip install sklearn
+
+> pip install scipy
+
+> pip install matplotlib
+
 
 
 作者-Author & Maintainers
@@ -33,7 +40,11 @@ by Fei Tony Liu, Kai Ming TingGippsland School of Information TechnologyMonash U
 
 <a href="https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/ensemble/_iforest.py">github</a> sklearn iforest_ source code by https://scikit-learn.org
 
-<a href="https://www.zhihu.com/people/firesnake-67/activities">iForest （Isolation Forest）孤立森林 异常检测 入门篇</a>by YeZhu - 2017
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html#sklearn.ensemble.IsolationForest">Sklearn' Isolation Forest Parameter introduction</a>
+
+<a href="https://sklearn.apachecn.org/docs/0.21.3/26.html">Sklearn 中文档</a>
+
+<a href="https://www.zhihu.com/people/firesnake-67/activities">iForest （Isolation Forest）孤立森林</a>by YeZhu - 2017
 
 <a href="https://blog.csdn.net/aiyinsimei/article/details/48003859#0-tsina-1-5960-397232819ff9a47a7b7e80a40613cfe1">Isolation forest的python代码实现</a> by 明日菜心_CSDN 2015-08
 
