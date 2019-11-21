@@ -1,7 +1,8 @@
 # Isolation-Froest2
-Anomaly detection.As a simple ‘ml’
+Anomaly detection.As a "simple ml" for "beginner"
 
-项目背景
+项目背景 Background
+=====
 
 这个项目是延续上一个IFroest的项目。同样是主张实战。
 
@@ -9,8 +10,9 @@ Anomaly detection.As a simple ‘ml’
 
 所以，我准备一份我认为比较好的一份，示例作为分享。这个项目我也正在尝试落地。因为我的工作目前也是更关注检测异常。
 
-安装 install
+安装 Install
 =====
+python version 3.6.5
 你需要/You need:
 
 pandas，numpy，sklearn，matplotlib，scipy
