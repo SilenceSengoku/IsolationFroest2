@@ -79,6 +79,8 @@ this is Author statement.
 
 No reprint without authorization.Thank you for your cooperation.
 
+If you think rem is cute, then we’ll be great friend!
+
 
 参考-Reference
 =====
