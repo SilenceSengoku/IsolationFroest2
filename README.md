@@ -85,11 +85,17 @@ No reprint without authorization.Thank you for your cooperation.
 <a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf">Isolation Forest</a>
 by Fei Tony Liu, Kai Ming TingGippsland School of Information TechnologyMonash University, Victoria, Australia,2008
 
-<a href="https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/ensemble/_iforest.py">github’s iforest_ source code</a> by https://scikit-learn.org
+<a href="https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/ensemble/_iforest.py">github’s iforest_ source code</a> by scikit-learn.org
 
 <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html#sklearn.ensemble.IsolationForest">Sklearn' Isolation Forest Parameter introduction</a>
+by scikit-learn.org
 
-<a href="https://sklearn.apachecn.org/docs/0.21.3/26.html">Sklearn 中文档</a>
+<a href="https://sklearn.apachecn.org/docs/0.21.3/26.html">Sklearn 中文档</a> by
+<a href="https://github.com/loopyme">@loopyme</a>
+<a href="https://github.com/wizardforcel">@飞龙</a>
+<a href="https://github.com/jiangzhonglian">@片刻</a>
+
+
 
 <a href="https://www.zhihu.com/people/firesnake-67/activities">iForest （Isolation Forest）孤立森林</a>by YeZhu - 2017
 
