@@ -1,7 +1,7 @@
 # Isolation-Froest2
 Anomaly detection.As a "simple ml" for "beginner"
 
-项目背景 Background
+项目背景-Background
 =====
 
 这个项目是延续上一个IFroest的项目。同样是主张实战。
@@ -12,7 +12,7 @@ Anomaly detection.As a "simple ml" for "beginner"
 
 这个项目我也正在尝试落地。因为我的工作目前也是更关注检测异常。
 
-安装 Install
+安装-Install
 =====
 python version 3.6.5
 你需要/You need:
