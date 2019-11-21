@@ -49,8 +49,10 @@ Anomaly detection.As a "simple ml" for "beginner"
 
 提取特征比例、或特征全部个数。
 > verbose : int, optional (default=0)
+
 控制树生成过程的详细程度。
 > n_jobs : int or None, optional (default=None)
+
 为拟合和预测并行运行的作业数,-1 为使用全部处理器。
 
 安装-Install
