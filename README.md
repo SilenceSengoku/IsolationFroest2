@@ -28,4 +28,14 @@ pandas，numpy，sklearn，matplotlib，scipy
 
 参考-Reference
 =====
-YeZhu
+<a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf">Isolation Forest</a>
+by Fei Tony Liu, Kai Ming TingGippsland School of Information TechnologyMonash University, Victoria, Australia,2008
+
+<a href="https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/ensemble/_iforest.py">github</a> sklearn iforest_ source code by https://scikit-learn.org
+
+<a href="https://www.zhihu.com/people/firesnake-67/activities">iForest （Isolation Forest）孤立森林 异常检测 入门篇</a>by YeZhu - 2017
+
+<a href="https://blog.csdn.net/aiyinsimei/article/details/48003859#0-tsina-1-5960-397232819ff9a47a7b7e80a40613cfe1">Isolation forest的python代码实现</a> by 明日菜心_CSDN 2015-08
+
+<a href="https://blog.csdn.net/ye1215172385/article/details/79762317">IForest主要参数和函数介绍</a>by 夕阳下江堤上的男孩_CSDN 2018-03
+
