@@ -79,7 +79,7 @@ pandas，numpy，sklearn，matplotlib，scipy
 
 Public statement:
 
-this is Author statement.
+This is Author statement.
 
 No reprint without authorization.Thank you for your cooperation.
 
