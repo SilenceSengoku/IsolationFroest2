@@ -27,16 +27,20 @@ Anomaly detection.As a "simple ml" for "beginner"
 
 参数-paramete
 =====
-<n_estimators : int, optional (default=100) 
+> n_estimators : int, optional (default=100) 
+
  设置itree 数量 
  
-<max_samples : int or float, optional (default=”auto”)
+> max_samples : int or float, optional (default=”auto”)
+
 样本抽取比例、或样本全部数量
 
-<contamination : float in (0., 0.5), optional (default=0.1)
+> contamination : float in (0., 0.5), optional (default=0.1)
+
 设置样本中异常点的比例
 
-<max_features : int or float, optional (default=1.0)
+> max_features : int or float, optional (default=1.0)
+
 提取特征比例、或特征全部个数。
 
 安装-Install
