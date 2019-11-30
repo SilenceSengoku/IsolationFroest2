@@ -57,9 +57,9 @@ Anomaly detection.As a "simple ml" for "beginner"
 
 example:
 
-from sklearn.ensemble import IsolationForest
+> from sklearn.ensemble import IsolationForest
 
-ifm = IsolationForest(n_estimators=100, verbose=2, n_jobs=2,
+> ifm = IsolationForest(n_estimators=100, verbose=2, n_jobs=2,
                       max_samples=lendata, random_state=rs, max_features=2)
 
 
