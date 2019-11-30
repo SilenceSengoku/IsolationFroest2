@@ -55,6 +55,14 @@ Anomaly detection.As a "simple ml" for "beginner"
 
 为拟合和预测并行运行的作业数,-1 为使用全部处理器。
 
+example:
+
+from sklearn.ensemble import IsolationForest
+
+ifm = IsolationForest(n_estimators=100, verbose=2, n_jobs=2,
+                      max_samples=lendata, random_state=rs, max_features=2)
+
+
 安装-Install
 =====
 my python version is 3.6.5
